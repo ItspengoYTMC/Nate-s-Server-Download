@@ -9,3 +9,5 @@ fabric mods for my server
 7. the click or create fabric installation in the "Installation" tab on the launcher
 Now your finished installing the mods!
 also make sure that you press play on the fabric installation and put in the ip, "192.168.1.2"(this is temporary}
+
+If your on mac, right ckick the file in the folder, "
